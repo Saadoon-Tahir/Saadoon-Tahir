@@ -48,8 +48,8 @@
 ---
 
 ## 🔗 Connect with Me
-- 💼 LinkedIn: *(add your link)*  
-- 🌐 Portfolio: *(add your website)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/saadoon/)*  
+- 🌐 Portfolio: *(https://saadoontahir.com/)*  
 
 ---
 
